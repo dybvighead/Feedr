@@ -3,7 +3,7 @@
 	<Properties>
 		<Property name="LOG_PATTERN">%d{yyyy-MM-dd 'T'HH:mm:ss.SSSZ} %p %m%n
 		</Property>
-		<Property name="APP_LOG_ROOT">/Users/benjamin/dev/eclipse-workspace/feedr/feedr_v3/src/main/logs
+		<Property name="APP_LOG_ROOT">/Users/benjamin/dev/Benjamin/feedr/src/main/logs
 		</Property>
 	</Properties>
 	<Appenders>

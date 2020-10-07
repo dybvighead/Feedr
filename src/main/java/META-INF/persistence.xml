@@ -18,7 +18,7 @@
 			<property name="hibernate.connection.driver_class"
 				value="oracle.jdbc.driver.OracleDriver" />
 			<property name="hibernate.connection.url"
-				value="jdbc:oracle:thin:@10.211.55.5:1521:xe" />
+				value="jdbc:oracle:thin:@localhost:1521:xe" />
 			<property name="hibernate.connection.username"
 				value="trainee1" />
 			<property name="hibernate.connection.password"

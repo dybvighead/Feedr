@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+* {
+	text-align: center;
+	vertical-align: text-top;
+	color: #6b8081;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+body {
+	background-color: rgb(175, 205, 181);
+}
+
+.white {
+	color: white;
+	font-size: 20px;
+}
+
+.nav-link {
+	color: #6b8081;
+}
+

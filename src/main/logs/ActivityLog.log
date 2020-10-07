@@ -1,0 +1,94 @@
+2020-10-06 T08:02:55.292+0800 INFO Session attribute created as User: User [userId=76, firstName=Benjamin, lastName=Tan, email=ben@mail.com, username=admin, password=admin]
+2020-10-06 T08:02:58.518+0800 INFO Session invalidated: User quit app
+2020-10-06 T08:03:13.421+0800 INFO Failed to create User - Exception raised: com.fdmgroup.feedr_v3.exceptions.InvalidEmailException: Entered an invalid email
+2020-10-06 T08:03:24.953+0800 INFO Created User object with parameters from request as: User [userId=81, firstName=dsfsdfs, lastName=sdfsd, email=wewrr@mail.com, username=sfs, password=123]
+2020-10-06 T08:03:29.696+0800 INFO Session attribute created as User: User [userId=81, firstName=dsfsdfs, lastName=sdfsd, email=wewrr@mail.com, username=sfs, password=123]
+2020-10-06 T08:03:31.742+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T08:03:31.742+0800 INFO Current session's Cuisine: Korean
+2020-10-06 T08:03:32.919+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Thai, Italian, Spanish, British, Vietnamese]
+2020-10-06 T08:03:32.919+0800 INFO Current session's Cuisine: Thai
+2020-10-06 T08:03:34.329+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Italian, Spanish, British, Vietnamese]
+2020-10-06 T08:03:34.329+0800 INFO Current session's Cuisine: Mexican
+2020-10-06 T08:03:38.997+0800 INFO User selected Mexican cuisine
+2020-10-06 T08:03:55.252+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T08:03:55.252+0800 INFO Current session's Cuisine: Thai
+2020-10-06 T08:03:56.500+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T08:03:56.500+0800 INFO Current session's Cuisine: Spanish
+2020-10-06 T08:03:58.833+0800 INFO User selected Spanish cuisine
+2020-10-06 T08:04:04.154+0800 INFO User deleted profile: User [userId=81, firstName=dsfsdfs, lastName=sdfsd, email=wewrr@mail.com, username=sfs, password=123]
+2020-10-06 T08:04:04.155+0800 INFO Session invalidated: User quit app
+2020-10-06 T08:40:51.607+0800 INFO Session attribute created as User: User [userId=76, firstName=Benjamin, lastName=Tan, email=ben@mail.com, username=admin, password=admin]
+2020-10-06 T08:40:53.807+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T08:40:53.807+0800 INFO Current session's Cuisine: Indian
+2020-10-06 T08:40:54.770+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T08:40:54.770+0800 INFO Current session's Cuisine: Thai
+2020-10-06 T08:40:54.914+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T08:40:54.915+0800 INFO Current session's Cuisine: Korean
+2020-10-06 T08:40:55.028+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Italian, Spanish, British, Vietnamese]
+2020-10-06 T08:40:55.028+0800 INFO Current session's Cuisine: Italian
+2020-10-06 T08:40:56.351+0800 INFO User selected Italian cuisine
+2020-10-06 T08:41:01.663+0800 INFO Session invalidated: User quit app
+2020-10-06 T09:12:58.688+0800 INFO Failed to create User - Exception raised: com.fdmgroup.feedr_v3.exceptions.InvalidEmailException: Entered an invalid email
+2020-10-06 T09:23:40.592+0800 INFO Created User object with parameters from request as: User [userId=82, firstName=Benjamin, lastName=Tan, email=ben@mail.com, username=ben123, password=123]
+2020-10-06 T09:23:48.558+0800 INFO Failed to verify log in - Exception raised: com.fdmgroup.feedr_v3.exceptions.WrongPasswordException: Invalid password
+2020-10-06 T09:23:55.997+0800 INFO Session attribute created as User: User [userId=82, firstName=Benjamin, lastName=Tan, email=ben@mail.com, username=ben123, password=123]
+2020-10-06 T09:24:12.613+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T09:24:12.613+0800 INFO Current session's Cuisine: Italian
+2020-10-06 T09:24:29.013+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Thai, Spanish, British, Korean, Vietnamese]
+2020-10-06 T09:24:29.014+0800 INFO Current session's Cuisine: Chinese
+2020-10-06 T09:24:30.049+0800 INFO Current session's Cuisine List: [Japanese, Mexican, Indian, Thai, Spanish, British, Korean, Vietnamese]
+2020-10-06 T09:24:30.050+0800 INFO Current session's Cuisine: Japanese
+2020-10-06 T09:24:30.949+0800 INFO Current session's Cuisine List: [Mexican, Indian, Thai, Spanish, British, Korean, Vietnamese]
+2020-10-06 T09:24:30.949+0800 INFO Current session's Cuisine: Vietnamese
+2020-10-06 T09:24:32.282+0800 INFO Current session's Cuisine List: [Mexican, Indian, Thai, Spanish, British, Korean]
+2020-10-06 T09:24:32.282+0800 INFO Current session's Cuisine: Spanish
+2020-10-06 T09:24:40.042+0800 INFO User selected Spanish cuisine
+2020-10-06 T09:25:01.090+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T09:25:01.090+0800 INFO Current session's Cuisine: Japanese
+2020-10-06 T09:25:02.032+0800 INFO Current session's Cuisine List: [Chinese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T09:25:02.032+0800 INFO Current session's Cuisine: Korean
+2020-10-06 T09:25:02.900+0800 INFO Current session's Cuisine List: [Chinese, Mexican, Indian, Thai, Italian, Spanish, British, Vietnamese]
+2020-10-06 T09:25:02.900+0800 INFO Current session's Cuisine: Italian
+2020-10-06 T09:25:06.108+0800 INFO User selected Italian cuisine
+2020-10-06 T09:25:33.083+0800 INFO Session invalidated: User quit app
+2020-10-06 T09:31:35.717+0800 INFO Session attribute created as User: User [userId=76, firstName=Benjamin, lastName=Tan, email=ben@mail.com, username=admin, password=admin]
+2020-10-06 T09:31:36.596+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T09:31:36.596+0800 INFO Current session's Cuisine: Japanese
+2020-10-06 T09:31:38.541+0800 INFO Current session's Cuisine List: [Chinese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T09:31:38.541+0800 INFO Current session's Cuisine: Chinese
+2020-10-06 T09:34:45.050+0800 INFO User selected Chinese cuisine
+2020-10-06 T09:34:49.845+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T09:34:49.845+0800 INFO Current session's Cuisine: Japanese
+2020-10-06 T09:34:50.808+0800 INFO Current session's Cuisine List: [Chinese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T09:34:50.808+0800 INFO Current session's Cuisine: Indian
+2020-10-06 T09:34:52.126+0800 INFO User selected Indian cuisine
+2020-10-06 T09:34:55.362+0800 INFO Session invalidated: User quit app
+2020-10-06 T09:36:01.378+0800 INFO Session attribute created as User: User [userId=76, firstName=Benjamin, lastName=Tan, email=ben@mail.com, username=admin, password=admin]
+2020-10-06 T09:36:06.804+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T09:36:06.804+0800 INFO Current session's Cuisine: Vietnamese
+2020-10-06 T09:36:07.896+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Thai, Italian, Spanish, British, Korean]
+2020-10-06 T09:36:07.897+0800 INFO Current session's Cuisine: Thai
+2020-10-06 T09:36:08.367+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Italian, Spanish, British, Korean]
+2020-10-06 T09:36:08.367+0800 INFO Current session's Cuisine: Indian
+2020-10-06 T09:36:13.620+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Italian, Spanish, British, Korean]
+2020-10-06 T09:36:13.620+0800 INFO Current session's Cuisine: Italian
+2020-10-06 T09:36:16.797+0800 INFO User selected Italian cuisine
+2020-10-06 T10:26:07.861+0800 INFO Session attribute created as User: User [userId=76, firstName=Benjamin, lastName=Tan, email=ben@mail.com, username=admin, password=admin]
+2020-10-06 T10:26:09.339+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T10:26:09.340+0800 INFO Current session's Cuisine: Mexican
+2020-10-06 T10:26:19.155+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T10:26:19.156+0800 INFO Current session's Cuisine: Japanese
+2020-10-06 T10:26:19.547+0800 INFO Current session's Cuisine List: [Chinese, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T10:26:19.547+0800 INFO Current session's Cuisine: Korean
+2020-10-06 T10:26:21.989+0800 INFO User selected Korean cuisine
+2020-10-06 T11:30:28.614+0800 INFO Session attribute created as User: User [userId=76, firstName=Benjamin, lastName=Tan, email=ben@mail.com, username=admin, password=admin]
+2020-10-06 T11:30:31.137+0800 INFO Current session's Cuisine List: [Chinese, Japanese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T11:30:31.138+0800 INFO Current session's Cuisine: Chinese
+2020-10-06 T11:30:32.236+0800 INFO Current session's Cuisine List: [Japanese, Mexican, Indian, Thai, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T11:30:32.236+0800 INFO Current session's Cuisine: Thai
+2020-10-06 T11:30:32.686+0800 INFO Current session's Cuisine List: [Japanese, Mexican, Indian, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T11:30:32.686+0800 INFO Current session's Cuisine: Mexican
+2020-10-06 T11:30:33.011+0800 INFO Current session's Cuisine List: [Japanese, Indian, Italian, Spanish, British, Korean, Vietnamese]
+2020-10-06 T11:30:33.011+0800 INFO Current session's Cuisine: Vietnamese
+2020-10-06 T11:30:36.445+0800 INFO User selected Vietnamese cuisine
+2020-10-06 T11:30:40.292+0800 INFO Session invalidated: User quit app

@@ -104,15 +104,12 @@ public class FeedrController {
 		UserDAO userDAO = new UserDAO();
 
 		try {
-			Pattern pattern = Pattern.compile("^[a-zA-Z0-9_!#$%&’*+/=?`{|}~^.-]+@[a-zA-Z0-9.-]+$"); // RFC 5322
-																									// permitted email
-																									// format
+			Pattern pattern = Pattern.compile("^[a-zA-Z0-9_!#$%&’*+/=?`{|}~^.-]+@[a-zA-Z0-9.-]+$"); // RFC 5322 permitted email format
 			Matcher matcher = pattern.matcher(user.getEmail());
 			if (!matcher.matches()) // check if email format is valid
 				throw new InvalidEmailException("Entered an invalid email");
 
-			if (userDAO.getUserByUsername(user.getUsername()) != null) // check if username already exists in the
-																		// database
+			if (userDAO.getUserByUsername(user.getUsername()) != null) // check if username already exists in the database
 				throw new UsernameTakenException("Username already taken");
 
 		} catch (NoResultException e) {
